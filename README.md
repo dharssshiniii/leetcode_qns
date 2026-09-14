@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharssshiniii/leetcode_qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/dharssshiniii/leetcode_qns/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/dharssshiniii/leetcode_qns/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharssshiniii/leetcode_qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/dharssshiniii/leetcode_qns/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
